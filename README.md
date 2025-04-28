@@ -1,5 +1,5 @@
 # AngularClock
-A Clock to watch the time made with Angular, Tailwind CSS and Local Date/Time so no server needed.  
+A simple analogue Clock (and additional Digital time under the clock) to watch the time made with Angular, Tailwind CSS and Local Date/Time so no server needed.  
 
 ### Usage
 I added the Clock to the `app.component.html` and to style it I used Tailwind CSS. This would place the watch in the top middle of your screen.  
