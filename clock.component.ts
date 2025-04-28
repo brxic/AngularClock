@@ -18,8 +18,4 @@ export class ClockComponent implements OnInit {
       this.time = new Date();
     }, 1000);
   }
-
-  getRotation(unit: number, max: number): string {
-    return `rotate(${(unit / max) * 360}deg)`;
-  }
 }
